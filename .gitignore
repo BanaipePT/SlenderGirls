@@ -1,16 +1,13 @@
-# =============== #
 # Unity generated #
-# =============== #
 [Tt]emp/
 [Oo]bj/
 [Bb]uild
 /[Ll]ibrary/
 sysinfo.txt
 *.stackdump
- 
-# ============================================= #
+# Unity generated #
+
 # Visual Studio / MonoDevelop / Rider generated #
-# ============================================= #
 [Ee]xported[Oo]bj/
 .vs/
 /*.userprefs
@@ -22,10 +19,9 @@ sysinfo.txt
 /*.unityproj
 /*.booproj
 /.idea*/
- 
-# ============ #
+# Visual Studio / MonoDevelop / Rider generated #
+
 # OS generated #
-# ============ #
 .DS_Store*
 ._*
 .Spotlight-V100
@@ -33,3 +29,4 @@ sysinfo.txt
 ehthumbs.db
 [Tt]humbs.db
 [Dd]esktop.ini
+# OS generated #

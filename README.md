@@ -43,6 +43,6 @@ Be careful not to encounter **the monster** while you're walking through the map
 
 Feel free to add me on Steam -> Banaipe
 
-### Join Discord
+### Join me on Discord
 
-[![Join Discord](https://discordapp.com/api/guilds/240750287248162816/widget.png?style=banner2&time-)](https://discord.gg/h4TWcCj)
+<a href="https://discord.gg/h4TWcCj" target="_blank"><img src="https://discordapp.com/api/guilds/240750287248162816/widget.png?style=banner2&time"></a>

@@ -33,8 +33,9 @@ Be careful not to encounter **the monster** while you're walking through the map
 
 * Create the initial map and scene;
 * Deploy characters and entities;
+* Code animations for characters;
 * Write scripts for animation;
-* Import music and sfx;
+* Import music and sound effects;
 * Deploy on Steam platform.
 
 ## Contact

@@ -39,4 +39,10 @@ Be careful not to encounter **the monster** while you're walking through the map
 
 ## Contact
 
+### Steam
+
 Feel free to add me on Steam -> Banaipe
+
+### Discord
+
+<iframe src="https://discordapp.com/widget?id=240750287248162816&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>

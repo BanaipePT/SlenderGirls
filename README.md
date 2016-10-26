@@ -45,4 +45,4 @@ Feel free to add me on Steam -> Banaipe
 
 ### Discord
 
-<iframe src="https://discordapp.com/widget?id=240750287248162816&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+(https://discordapp.com/api/guilds/240750287248162816/widget.png?style=banner2&time-)](https://discord.gg/h4TWcCj)

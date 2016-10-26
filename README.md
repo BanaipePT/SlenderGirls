@@ -45,4 +45,4 @@ Feel free to add me on Steam -> Banaipe
 
 ### Discord
 
-(https://discordapp.com/api/guilds/240750287248162816/widget.png?style=banner2&time-)](https://discord.gg/h4TWcCj)
+[![Stories in Ready](https://discordapp.com/api/guilds/240750287248162816/widget.png?style=banner2&time-)](https://discord.gg/h4TWcCj)

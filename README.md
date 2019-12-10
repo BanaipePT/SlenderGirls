@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-**BanaipePT** & **Kiritozama** are the guys behind this project.
+**Banaipe** & **kami-sama** are the guys behind this project.
 
 We are going to create a **Slender style** horror game using the free version of Unity.
 

@@ -12,9 +12,9 @@ If you want to help, just do it! You are free to do so! We love open source like
 
 ## ABOUT
 
-This game is going to be based in the original version of **SlenderMan**. The key difference is that we'll be using the *"girls"* from the real story.
+This game is going to be based on the original version of **SlenderMan**. The key difference is that we'll be using the *"girls"* from the original story.
 
-To complete the level you have to find some **pieces of paper** that will tell you where to find **the key** used to open the exit door.
+To complete the level you would need to find some **pieces of paper** that will give clues on where to find **the key** used to open the gate door.
 
 Be careful not to encounter **the monster** while you're walking through the map!
 
@@ -24,7 +24,7 @@ Be careful not to encounter **the monster** while you're walking through the map
 * High quality identities;
 * High quality animations;
 * Human-like walking;
-* Monster uses advanced algorithms to follow you;
+* Monster uses advanced AI to follow you;
 * Health and Stamina;
 * Defend against monster attacks;
 * Enigma made with pieces of paper placed around the map.
@@ -37,6 +37,8 @@ Be careful not to encounter **the monster** while you're walking through the map
 * Write scripts for animation;
 * Import music and sound effects;
 * Deploy on Steam platform.
+* ???
+* Profit!
 
 ## FIND US
 
